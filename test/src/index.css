@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.poster {
+  width: 150px;
+  height: auto;
+}
+
+.addMovieForm{
+  display: flex;
+  justify-content: center;
+}
+
+.addMovieForm div {
+  margin-right: 15px;
+}
+
+.indMovie {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  margin: 20px;
+}
+
+/* Menu */
+
+.menu {
+  background-color: #686de0;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.menu a {
+  color: white;
+  text-decoration: none;
+  padding: 15px;
+}
+
+.links {
+  display: flex;
+  margin-left: auto;
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
+.logo {
+  margin: 0;
+  padding: 10px;
+  font-size: 1.5em;
+}
+
+.active {
+  background-color : black;
+}
+
+/* Cart */
+
+.cartTotal {
+  text-align: right;
+  padding-right: 30px;
+  font-size: 1.5em;
+}

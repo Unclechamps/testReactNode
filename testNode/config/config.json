@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "hmtsfzxi",
+    "password": "G6TItWlggUG9Gs29-v_M81lJyf0Pn05m",
+    "database": "hmtsfzxi",
+    "host": "elmer.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "hmtsfzxi",
+    "password": "G6TItWlggUG9Gs29-v_M81lJyf0Pn05m",
+    "database": "hmtsfzxi",
+    "host": "elmer.db.elephantsql.com",
+    "dialect": "postgres"
+  }
+}
